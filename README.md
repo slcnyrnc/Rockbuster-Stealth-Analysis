@@ -30,25 +30,25 @@ The goal is to help Rockbuster Stealth with launching a strategy for the new onl
 
 ## FINDINGS
 
-## Do sales figures vary between geographic regions?
+### Do sales figures vary between geographic regions?
 
 - Top 10 countries in terms of revenue are India, China, United States, Japan, Mexico, Brazil, Russian Federation, Philippines, Turkey and Indonesia.
 - These 10 countries are making up of 51% of the total revenue.
 
-## Which countries are Rockbuster customers based in?
+### Which countries are Rockbuster customers based in?
 
 - Rockbuster has customers all around the world, spread over 109 countries.
 - The top 10 countries in terms of customer numbers are the same countries with the highest revenue: India, China, United States, Japan, Mexico, Brazil, Russian Federation, Philippines, Turkey and Indonesia.
 
-## Top 5 high value customers in terms of revenue
+### Top 5 high value customers in terms of revenue
 
 <img width="529" alt="image" src="https://github.com/slcnyrnc/Rockbuster-Stealth-Analysis/assets/167687192/8cdaf0e4-04ab-4131-9ccf-b437bbada862">
 
-## Which movies contributed the most/least to revenue gain?
+### Which movies contributed the most/least to revenue gain?
 
 <img width="1083" alt="Screenshot 2024-04-27 at 12 55 36" src="https://github.com/slcnyrnc/Rockbuster-Stealth-Analysis/assets/167687192/8429ea7c-b0a1-4020-a6aa-91bf419de726">
 
-## Which genres are the most popular?
+### Which genres are the most popular?
 
 The top 5 genres in terms of revenue: Sports, Sci-fi, Animation, Drama and Comedy.
 
